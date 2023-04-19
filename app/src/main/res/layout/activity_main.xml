@@ -79,7 +79,7 @@
 
 
         <TextView
-            android:id="@+id/massage_success"
+            android:id="@+id/message_success"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="UnLocked!"
